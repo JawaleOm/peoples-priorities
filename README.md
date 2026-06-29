@@ -16,6 +16,7 @@ To start both the Next.js frontend and the Express.js backend concurrently:
 3. Open your browser:
    - **Frontend App**: [http://localhost:3000](http://localhost:3000)
    - **Backend API**: [http://localhost:5000/api/health](http://localhost:5000/api/health)
+   - **Deployment link : https://github.com/JawaleOm/peoples-priorities
 
 ---
 
